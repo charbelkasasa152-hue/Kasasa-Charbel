@@ -1,0 +1,41 @@
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #f5f3fb;
+  color: #202033;
+}
+
+header {
+  background: #7b5cf5;
+  color: white;
+  padding: 22px;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+main {
+  padding: 25px;
+}
+
+.welcome {
+  background: white;
+  padding: 25px;
+  border-radius: 16px;
+  max-width: 500px;
+  margin: 30px auto;
+  text-align: center;
+}
+
+button {
+  background: #7b5cf5;
+  color: white;
+  border: none;
+  padding: 12px 22px;
+  border-radius: 9px;
+  cursor: pointer;
+}
